@@ -1,6 +1,8 @@
 # include<stdio.h>
-/*
- * main - program that returns the puts function
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
